@@ -31,3 +31,8 @@ into
 ## Usage
 
 Once installed, have the file you would like to convert open and focused, then simply press `Cmd+Alt+G`.
+
+### Changelog
+
+**v0.0.1** A first attempt.
+- initial commit of the package files to get things up and running
